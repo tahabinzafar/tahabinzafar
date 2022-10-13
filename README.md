@@ -1,6 +1,6 @@
 
 ## 🚀 About Me
-I'm an aspiring Data Scientist with domain knowledge/experience in Power Industry and Construction works. I enjoy analyzing financial markets and investing accordingly. I'm currently looking for a career in Data Science domain where I could add value, leveraging my knowledge in Engineering and Financial domains.
+I'm an aspiring Data Scientist with domain knowledge/experience in Power Industry and Construction works. I enjoy analyzing financial markets and investing accordingly. I'm currently looking for a career in Data Science domain where I could add value, leveraging my knowledge in Engineering and Finance domains.
 
 
 ## 🛠 Skills
