@@ -1,10 +1,9 @@
-
 ## 🚀 About Me
 I'm UK based aspiring Data Scientist with domain knowledge/experience in Power Industry and Financial Markets. Holding a Masters in Data Science and a Bachelors in Electrical Engineering. I enjoy analyzing financial markets and investing accordingly. I'm looking for opportunities in the Data Science domain where I can leverage my knowledge in Engineering, Finance, and Data Science to add value.
 
 
 ## 🛠 Skills
-Python, Machine Learning, Deep Learning, SQL, Power BI, Electrical Engineering, Trend Analysis
+Python, Machine Learning, Deep Learning, SQL, Power BI, Tableau, Trend Analysis, Engineering Domain Knowledge, Financial Markets
 
 
 ## 🔗 Contact
