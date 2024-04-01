@@ -3,7 +3,7 @@ I'm UK based aspiring Data Scientist with domain knowledge/experience in Power I
 
 
 ## 🛠 Skills
-Python, Machine Learning, Deep Learning, SQL, Power BI, Tableau, Trend Analysis, Engineering Domain Knowledge, Financial Markets
+Python, Machine Learning, Deep Learning, SQL, Power BI, Tableau, LLMs, Trend Analysis, Engineering Domain Knowledge, Financial Markets
 
 
 ## 🔗 Contact
