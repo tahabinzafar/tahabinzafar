@@ -1,5 +1,5 @@
 ## 🚀 About Me
-Msc. Data Science. Working as Data Analyst in Sports. Have domain knowledge of sports, engineering and finance. Love sports and music.
+Data Analyst in Sports. MS Data Science. 
 
 
 ## 🛠 Skills
