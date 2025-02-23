@@ -1,6 +1,5 @@
 ## 🚀 About Me
-Data Analyst in Sports. MS Data Science. 
-
+An artist in Data with an engineering background. 
 
 ## 🛠 Skills
 Python, R, SQL, ML , DL, GenAI, Excel
