@@ -1,5 +1,5 @@
 ## About Me
-an artist in data with an engineering background. 
+An artist in data with an engineering background. 
 
 ## Skills
 Python, R, SQL, ML/AI, Data Infrastructure, Automation
