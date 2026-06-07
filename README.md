@@ -7,9 +7,7 @@
 ```
  
 ```console
-taha@github:~$ whoami
-taha — data analyst · london
- 
+
 taha@github:~$ ls skills/
 python   r   sql   ml-ai   data-infra   automation
  
